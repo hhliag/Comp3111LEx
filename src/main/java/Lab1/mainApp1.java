@@ -6,5 +6,6 @@ public class mainApp1 {
         System.out.println("====================");
         System.out.println("2^10 = " + myLibrary.power(2, 10));
         System.out.println("5! = " + myLibrary.factorial(5));
+        System.out.println("--- End of report ---");
     }
 }
